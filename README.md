@@ -19,7 +19,7 @@
    <em>(Apr 2025 – Jul 2026, 16 Months)</em><br><br>
   Majoring in <strong>Software Engineering</strong>, I am actively building my foundation in <strong>Quantum Machine Learning (QML)</strong>, <strong>Computer Vision</strong>, and <strong>Deep Learning Optimization</strong>.<br>
   I am passionate about developing scalable hybrid classical-quantum models and applying AI to real-world industrial challenges.
-  Looking ahead, I am eager to expand my research into <strong>Efficient Learning</strong> and <strong>Systems for Machine Learning (SysML)</strong>, aiming to design scalable, resource-efficient computing frameworks for next-generation AI.
+  In my graduate studies, I aim to expand my research into Efficient Learning and Systems for Machine Learning (SysML), designing scalable, resource-efficient computing frameworks for next-generation AI.
 </p>
 
 <br>
