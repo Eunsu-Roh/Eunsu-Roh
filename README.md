@@ -73,7 +73,6 @@ My research is grounded in a strong mathematical foundation and academic dedicat
 
 <div align="center">
   <h2>📸 Academic Gallery & Activities</h2>
-  <p>Images are organized by major milestones and projects.</p>
   <br>
   
   <!-- 1. 2025 Quantum AI Hackerton -->
