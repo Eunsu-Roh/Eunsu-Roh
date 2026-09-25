@@ -33,7 +33,7 @@
 | **Category** | **Project / Description & Role** |
 | :--- | :--- |
 | 🥇 **Grand Prize** | **Industry-Academic Project (1st Place)**<br>Developed an AI Interviewer Agent utilizing the **Google ADK** and multimodal LLM pipelines. |
-| 🥉 **Bronze Prize** | **The 2nd Global Quantum AI Competition 2026 (5th / 137 Teams)**<br>Built a VQC-based Quantum Neural Network under strict circuit depth constraints. *(Hosted by NORMA, Sponsored by Rigetti Computing)* |
+| 🥉 **Bronze Prize** | **The 2nd Global Quantum AI Competition 2026 (6th / 137 Teams)**<br>Built a VQC-based Quantum Neural Network under strict circuit depth constraints. *(Hosted by NORMA, Sponsored by Rigetti Computing)* |
 | 🥉 **Bronze Prize** | **The 1st Quantum AI Hackathon 2025**<br>Demonstrated excellent creativity and technical skills in quantum algorithms. *(Hosted by NORMA)* |
 | 📄 **Publication** | **Summer Annual Conference of IEIE, 2026**<br>Submitted Paper: *"Performance Advantage of Quantum-Classical Hybrid Networks in Few-shot Learning with Frozen Backbone"* (Computer Vision + VQC Hybrid Model Design) |
 | ⚙️ **Project** | **Wind Turbine Defect Detection (Capstone)**<br>Designed an automated structural object detection pipeline leveraging **YOLO** and **SAM**. |
