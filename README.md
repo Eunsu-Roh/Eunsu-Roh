@@ -22,7 +22,7 @@
 
 <br>
 <a href="mailto:doctor316@kau.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/eunsu-o-170ab5255/"><img src="https://www.linkedin.com/in/eunsu-roh-170ab5255?utm_source=share_via&utm_content=profile&utm_medium=member_ios"/></a>
+<a href="https://www.linkedin.com/in/eunsu-roh-170ab5255/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a>
 
 </div>
 
