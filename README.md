@@ -14,7 +14,7 @@
 
 <p align="center">
    <strong>Undergraduate Researcher @ Quantum AI Lab, Korea Aerospace University</strong><br>
-   <em>(Apr 2025 – Jul 2026, 16 Months)</em><br><br>
+   <em>(Apr 2025 – Jul 2026)</em><br><br>
   Majoring in <strong>Software Engineering</strong>, I am actively building my foundation in <strong>Quantum Machine Learning (QML)</strong>, <strong>Computer Vision</strong>, and <strong>Deep Learning Optimization</strong>.<br>
   I am passionate about developing scalable hybrid classical-quantum models and applying AI to real-world industrial challenges.
   In my graduate studies, I aim to expand my research into Efficient Learning and Systems for Machine Learning (SysML), designing scalable, resource-efficient computing frameworks for next-generation AI.
