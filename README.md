@@ -16,7 +16,7 @@
   Majoring in <strong>Software Engineering</strong>, I am actively building my foundation in <strong>Systems for AI</strong>, <strong>High-Performance Computing (HPC)</strong>, <strong>Distributed Systems</strong>, and <strong>Machine Learning</strong>.<br>
   I am passionate about bridging AI models with scalable computing architectures to solve real-world hardware and performance bottlenecks.<br>
   In the long term, I am also interested in building hybrid systems that integrate quantum computing with HPC.<br><br>
-  <sub><em>Former Undergraduate Researcher @ Quantum AI Lab, Korea Aerospace University (Apr 2025 – Jul 2026)</em></sub>
+  <sub><em>Undergraduate Researcher @ Quantum AI Lab, Korea Aerospace University (Apr 2025 – Jul 2026)</em></sub>
 </p>
 
 <br>
